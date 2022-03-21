@@ -1,1 +1,3 @@
 # ChatBot
+An Intelligent ChatBot in Python.
+In Progress ...
